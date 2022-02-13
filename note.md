@@ -44,3 +44,6 @@ GIT STAGES
 i. Click on the  letter "I" to enter insert/edit mode. 
 ii. When done, press "ESCAPE".
 iii. :wq and hit enter to return to previous screen.
+
+A short hand for committing files after staging to avoid the new po-up window
+$ git commit -m 'updated app.js'
