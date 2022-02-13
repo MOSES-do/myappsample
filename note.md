@@ -24,7 +24,7 @@ On branch master
 
 No commits yet
 
-# ////////////////////////
+# ///////////////////////
 
 $ git add *.html
 * - means all in git
@@ -33,3 +33,14 @@ The above adds all .html files to the staging area.
 # ////////////////////////
 To add all file types to the staging area:
 - git add .
+
+
+# ///////////////////////
+GIT STAGES
+1. Add git to project.
+2. Staging(.git add)
+3. Commit (git commit)
+3a. In new window
+i. Click on the  letter "I" to enter insert/edit mode. 
+ii. When done, press "ESCAPE".
+iii. :wq and hit enter to return to previous screen.
