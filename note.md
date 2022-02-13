@@ -64,3 +64,9 @@ To switch to branch
 ACE_ME@ACE-ME MINGW64 ~/Desktop/myapp (master)
 $ git checkout login
 Switched to branch 'login'
+
+
+
+////////////////////////
+TO MERGE BRANCH
+GIT MERGE followed by the name of the branch to merge branch to master.
