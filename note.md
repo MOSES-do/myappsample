@@ -58,3 +58,9 @@ This is created to enable us work on the same project but dupklicating it to mak
 
 created using:
 git branch - followed by branch name.
+
+//////////////////
+To switch to branch
+ACE_ME@ACE-ME MINGW64 ~/Desktop/myapp (master)
+$ git checkout login
+Switched to branch 'login'
