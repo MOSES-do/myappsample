@@ -50,4 +50,11 @@ $ git commit -m 'updated app.js'
 
 /////////////////////
 .GITIGNORE
-This is used to hide files 
+This is used to hide files and folders.
+
+///////////////////////
+BRANCH 
+This is created to enable us work on the same project but dupklicating it to make changes in a branch without affecting the master branch.
+
+created using:
+git branch - followed by branch name.
